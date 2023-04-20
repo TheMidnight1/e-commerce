@@ -1,0 +1,19 @@
+lockfileVersion: 5.4
+
+specifiers:
+  '@iconify-json/bi': ^1.1.16
+
+devDependencies:
+  '@iconify-json/bi': 1.1.16
+
+packages:
+
+  /@iconify-json/bi/1.1.16:
+    resolution: {integrity: sha512-93jzbeGLqgjD+2DuwP1O0x/6KXQasrEYeLyPYs4PoXpkSRGWPnIvNtgTkjjPcMW4hHJxMMf7IZ90vrmOko9k1Q==}
+    dependencies:
+      '@iconify/types': 2.0.0
+    dev: true
+
+  /@iconify/types/2.0.0:
+    resolution: {integrity: sha512-+wluvCrRhXrhyOmRDJ3q8mux9JkKy5SJ/v8ol2tu4FVjyYvtEzkc/3pK15ET6RKg4b4w4BmTk1+gsCUhf21Ykg==}
+    dev: true

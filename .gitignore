@@ -1,0 +1,4 @@
+ecom_env
+.svelte-kit
+node_modules
+.env
